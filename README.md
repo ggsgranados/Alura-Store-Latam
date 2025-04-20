@@ -13,12 +13,15 @@ Alura Store Latam es una simulación de una tienda en línea que permite gestion
 - **Pandas**: Biblioteca para manipulación y análisis de datos.
 - **Matplotlib / Seaborn**: Bibliotecas para la creación de visualizaciones gráficas.
 - **NumPy**: Biblioteca para operaciones numéricas y manejo de arrays.
+- **Seaborn**: Biblioteca complementaria para visualizaciones estadísticas.
+- **Folium**: Biblioteca para la visualización de datos geoespaciales en mapas interactivos.
 
 ## 📁 Estructura del repositorio
 
 - `AluraStoreLatam.ipynb`: Notebook principal que contiene el desarrollo completo del proyecto, incluyendo análisis de datos, visualizaciones y conclusiones.
 - `README.md`: Este archivo, que proporciona una visión general del proyecto.
 - `LICENSE`: Archivo de licencia del proyecto bajo MIT License.
+- `Resumen Ejecutivo Alura Store.pdf`: Archivo PDF que contiene el resumen ejecutivo con las recomendaciones finales.
 
 ## 🧪 Entorno de desarrollo
 
